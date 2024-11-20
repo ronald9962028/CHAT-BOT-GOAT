@@ -1,0 +1,637 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01274E1613C4F320E58',
+    participant: undefined
+  },
+  messageTimestamp: 1732115076,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola me llamo ronald',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola me llamo ronald',
+  from: '59169912127'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b27d083-1d60-43da-9346-9890815efd7a',
+  keyword: 'key_6b83bde2-d32d-40a9-acc7-42b3a5274f1a',
+  answer: 'Hola 👋, Bienvenido a *GOAT - Agencia de Marketing y Publicidad*\n' +
+    'Si quiere ver nuestro menu Escribe cualquiera de las dos opciones\n' +
+    '- 👉 *MENU*\n' +
+    '- 👉 *0*',
+  options: {
+    media: 'https://inmobiliariacapricorniosrl.com/img/GOAT.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5066a491abf4feebe94a1847d007c621'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09D69024A9FDF1F5B68',
+    participant: undefined
+  },
+  messageTimestamp: 1732115087,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
+  from: '59169912127'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5903ca89-db14-436e-90e5-c9dfb0a6654e',
+  keyword: 'key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4',
+  answer: 'Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n' +
+    '\r\n' +
+    '👉 *1.* 🌐 Conocenos",\r\n' +
+    '👉 *2.* 🚀 Nuestros Servicios",\r\n' +
+    '👉 *3.* 🍀 Ofertas del Mes",\r\n' +
+    '👉 *4.* 🏢 Conoce nuestras oficinas",\r\n' +
+    '👉 *5.* 📞 Contactar a un Ejecutivo de Ventas",',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '370c5409c572347d6f896cf9b8862f08'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BDC7E624D7026BDF66',
+    participant: undefined
+  },
+  messageTimestamp: 1732115089,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '59169912127'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB018111FE293B71E47DE',
+    participant: undefined
+  },
+  messageTimestamp: 1732115109,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
+  from: '59169912127'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5903ca89-db14-436e-90e5-c9dfb0a6654e',
+  keyword: 'key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4',
+  answer: 'Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n' +
+    '\r\n' +
+    '👉 *1.* 🌐 Conocenos",\r\n' +
+    '👉 *2.* 🚀 Nuestros Servicios",\r\n' +
+    '👉 *3.* 🍀 Ofertas del Mes",\r\n' +
+    '👉 *4.* 🏢 Conoce nuestras oficinas",\r\n' +
+    '👉 *5.* 📞 Contactar a un Ejecutivo de Ventas",',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '370c5409c572347d6f896cf9b8862f08'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C78985CED7B2410D6B',
+    participant: undefined
+  },
+  messageTimestamp: 1732115111,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '59169912127'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB021F578E23663577CF9',
+    participant: undefined
+  },
+  messageTimestamp: 1732115120,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
+  from: '59169912127'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5903ca89-db14-436e-90e5-c9dfb0a6654e',
+  keyword: 'key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4',
+  answer: 'Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n' +
+    '\r\n' +
+    '👉 *1.* 🌐 Conocenos",\r\n' +
+    '👉 *2.* 🚀 Nuestros Servicios",\r\n' +
+    '👉 *3.* 🍀 Ofertas del Mes",\r\n' +
+    '👉 *4.* 🏢 Conoce nuestras oficinas",\r\n' +
+    '👉 *5.* 📞 Contactar a un Ejecutivo de Ventas",',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '370c5409c572347d6f896cf9b8862f08'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03611D6154BDC38C32C',
+    participant: undefined
+  },
+  messageTimestamp: 1732115122,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '59169912127'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CC53DE3E6E033F8A63',
+    participant: undefined
+  },
+  messageTimestamp: 1732115133,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
+  from: '59169912127'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5903ca89-db14-436e-90e5-c9dfb0a6654e',
+  keyword: 'key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4',
+  answer: 'Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n' +
+    '\r\n' +
+    '👉 *1.* 🌐 Conocenos",\r\n' +
+    '👉 *2.* 🚀 Nuestros Servicios",\r\n' +
+    '👉 *3.* 🍀 Ofertas del Mes",\r\n' +
+    '👉 *4.* 🏢 Conoce nuestras oficinas",\r\n' +
+    '👉 *5.* 📞 Contactar a un Ejecutivo de Ventas",',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '370c5409c572347d6f896cf9b8862f08'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06E5B4852D9B25C2B74',
+    participant: undefined
+  },
+  messageTimestamp: 1732115135,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '59169912127'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D0C2F25176D2F7D248',
+    participant: undefined
+  },
+  messageTimestamp: 1732115140,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
+  from: '59169912127'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5903ca89-db14-436e-90e5-c9dfb0a6654e',
+  keyword: 'key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4',
+  answer: 'Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n' +
+    '\r\n' +
+    '👉 *1.* 🌐 Conocenos",\r\n' +
+    '👉 *2.* 🚀 Nuestros Servicios",\r\n' +
+    '👉 *3.* 🍀 Ofertas del Mes",\r\n' +
+    '👉 *4.* 🏢 Conoce nuestras oficinas",\r\n' +
+    '👉 *5.* 📞 Contactar a un Ejecutivo de Ventas",',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '370c5409c572347d6f896cf9b8862f08'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59169912127@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0498E9F032103D88EED',
+    participant: undefined
+  },
+  messageTimestamp: 1732115143,
+  pushName: 'Developer',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '59169912127'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162353616@s.whatsapp.net',
+    fromMe: false,
+    id: '1CF17BCB3C03AAAB3775B0CF8CF7D1EF',
+    participant: undefined
+  },
+  messageTimestamp: 1732115295,
+  pushName: 'Chief Marketing',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bro',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Chief Marketing',
+  body: 'Bro',
+  from: '59162353616'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162353616@s.whatsapp.net',
+    fromMe: false,
+    id: '849E251BF909835215C5F28F0B3A2DF0',
+    participant: undefined
+  },
+  messageTimestamp: 1732115296,
+  pushName: 'Chief Marketing',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Chief Marketing',
+  body: 'Ok',
+  from: '59162353616'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b27d083-1d60-43da-9346-9890815efd7a',
+  keyword: 'key_6b83bde2-d32d-40a9-acc7-42b3a5274f1a',
+  answer: 'Hola 👋, Bienvenido a *GOAT - Agencia de Marketing y Publicidad*\n' +
+    'Si quiere ver nuestro menu Escribe cualquiera de las dos opciones\n' +
+    '- 👉 *MENU*\n' +
+    '- 👉 *0*',
+  options: {
+    media: 'https://inmobiliariacapricorniosrl.com/img/GOAT.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5066a491abf4feebe94a1847d007c621'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b27d083-1d60-43da-9346-9890815efd7a',
+  keyword: 'key_6b83bde2-d32d-40a9-acc7-42b3a5274f1a',
+  answer: 'Hola 👋, Bienvenido a *GOAT - Agencia de Marketing y Publicidad*\n' +
+    'Si quiere ver nuestro menu Escribe cualquiera de las dos opciones\n' +
+    '- 👉 *MENU*\n' +
+    '- 👉 *0*',
+  options: {
+    media: 'https://inmobiliariacapricorniosrl.com/img/GOAT.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5066a491abf4feebe94a1847d007c621'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162353616@s.whatsapp.net',
+    fromMe: false,
+    id: 'AAA8E98DA1E62D7FEADFC0BAA5D6D19D',
+    participant: undefined
+  },
+  messageTimestamp: 1732115310,
+  pushName: 'Chief Marketing',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Chief Marketing',
+  body: '0',
+  from: '59162353616'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5903ca89-db14-436e-90e5-c9dfb0a6654e',
+  keyword: 'key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4',
+  answer: 'Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n' +
+    '\r\n' +
+    '👉 *1.* 🌐 Conocenos",\r\n' +
+    '👉 *2.* 🚀 Nuestros Servicios",\r\n' +
+    '👉 *3.* 🍀 Ofertas del Mes",\r\n' +
+    '👉 *4.* 🏢 Conoce nuestras oficinas",\r\n' +
+    '👉 *5.* 📞 Contactar a un Ejecutivo de Ventas",',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '370c5409c572347d6f896cf9b8862f08'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162353616@s.whatsapp.net',
+    fromMe: false,
+    id: 'B41A3EF34FD65BD4458614DC1521A1DB',
+    participant: undefined
+  },
+  messageTimestamp: 1732115319,
+  pushName: 'Chief Marketing',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Chief Marketing',
+  body: '1',
+  from: '59162353616'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162353616@s.whatsapp.net',
+    fromMe: false,
+    id: 'D79B2208D7EAF779ADF3E82E6CA16064',
+    participant: undefined
+  },
+  messageTimestamp: 1732115325,
+  pushName: 'Chief Marketing',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Chief Marketing',
+  body: '0',
+  from: '59162353616'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5903ca89-db14-436e-90e5-c9dfb0a6654e',
+  keyword: 'key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4',
+  answer: 'Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n' +
+    '\r\n' +
+    '👉 *1.* 🌐 Conocenos",\r\n' +
+    '👉 *2.* 🚀 Nuestros Servicios",\r\n' +
+    '👉 *3.* 🍀 Ofertas del Mes",\r\n' +
+    '👉 *4.* 🏢 Conoce nuestras oficinas",\r\n' +
+    '👉 *5.* 📞 Contactar a un Ejecutivo de Ventas",',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '370c5409c572347d6f896cf9b8862f08'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59162353616@s.whatsapp.net',
+    fromMe: false,
+    id: '0024AB4DC2CD7A3702022DC8F975B31D',
+    participant: undefined
+  },
+  messageTimestamp: 1732115329,
+  pushName: 'Chief Marketing',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Chief Marketing',
+  body: '3',
+  from: '59162353616'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59176509746@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DE6DAE823FF3722A49',
+    participant: undefined
+  },
+  messageTimestamp: 1732116274,
+  pushName: 'Agente Inmobiliario Fabricio ofi. centro',
+  broadcast: false,
+  message: Message {
+    conversation: 'holas bro',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agente Inmobiliario Fabricio ofi. centro',
+  body: 'holas bro',
+  from: '59176509746'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b27d083-1d60-43da-9346-9890815efd7a',
+  keyword: 'key_6b83bde2-d32d-40a9-acc7-42b3a5274f1a',
+  answer: 'Hola 👋, Bienvenido a *GOAT - Agencia de Marketing y Publicidad*\n' +
+    'Si quiere ver nuestro menu Escribe cualquiera de las dos opciones\n' +
+    '- 👉 *MENU*\n' +
+    '- 👉 *0*',
+  options: {
+    media: 'https://inmobiliariacapricorniosrl.com/img/GOAT.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5066a491abf4feebe94a1847d007c621'
+}

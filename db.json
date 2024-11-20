@@ -1,0 +1,920 @@
+[
+  {
+    "ref": "cd46612a-4a52-4b62-bb87-8634c753325e",
+    "keyword": "306a1dc25c6e7900df4cc78fa535087a",
+    "answer": "hola me llamo ronald",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "9beb1a7ca32cc70b11d7569d8cb21b01"
+  },
+  {
+    "ref": "ans_4b27d083-1d60-43da-9346-9890815efd7a",
+    "keyword": "key_6b83bde2-d32d-40a9-acc7-42b3a5274f1a",
+    "answer": "Hola 👋, Bienvenido a *GOAT - Agencia de Marketing y Publicidad*\nSi quiere ver nuestro menu Escribe cualquiera de las dos opciones\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": "https://inmobiliariacapricorniosrl.com/img/GOAT.jpg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1000,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5066a491abf4feebe94a1847d007c621",
+    "from": "59169912127"
+  },
+  {
+    "ref": "b8282eb8-d670-4bee-bd20-655efca801f1",
+    "keyword": "5066a491abf4feebe94a1847d007c621",
+    "answer": "0",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_5903ca89-db14-436e-90e5-c9dfb0a6654e",
+    "keyword": "key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4",
+    "answer": "Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n\r\n👉 *1.* 🌐 Conocenos\",\r\n👉 *2.* 🚀 Nuestros Servicios\",\r\n👉 *3.* 🍀 Ofertas del Mes\",\r\n👉 *4.* 🏢 Conoce nuestras oficinas\",\r\n👉 *5.* 📞 Contactar a un Ejecutivo de Ventas\",",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "370c5409c572347d6f896cf9b8862f08",
+    "from": "59169912127"
+  },
+  {
+    "ref": "cffa2fc4-9fdd-4af7-bc55-e6ab9231ad35",
+    "keyword": "370c5409c572347d6f896cf9b8862f08",
+    "answer": "1",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_97459f0b-a86b-4863-8f70-ec428ae032f0",
+    "keyword": "key_d98c6932-035e-4d8d-80a6-7011b14e381f",
+    "answer": "🌐 *CONOCENOS*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "bd7de9dfa394aceb13a081c9b607b60e",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_a9b148c4-ddfa-469b-8b07-4656f0add088",
+    "keyword": "ans_97459f0b-a86b-4863-8f70-ec428ae032f0",
+    "answer": "Descubre más sobre nosotros y lo que hacemos. Puedes conocernos mejor en el siguiente enlace:",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "3edb0961a9457c9c2ea2d66c77af1ec5",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_e77caef4-a751-43b5-af60-593fc4003861",
+    "keyword": "ans_a9b148c4-ddfa-469b-8b07-4656f0add088",
+    "answer": "https://goatpublicidad.com",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "cad6b4abf3a561a20a29d321173f9c43",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_793a0d0c-3cf4-4945-b8e7-015ba3612689",
+    "keyword": "ans_e77caef4-a751-43b5-af60-593fc4003861",
+    "answer": "¡Gritanos!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "14054c330ca1995c6852684bcd2e5e71",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_ef25bed9-8448-433b-aa1d-1c41c831149f",
+    "keyword": "ans_793a0d0c-3cf4-4945-b8e7-015ba3612689",
+    "answer": "Escribe *MENU* o el Numero *0* para volver al menu\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "99735b060d5afdc1f72bf8a083002e2c",
+    "from": "59169912127"
+  },
+  {
+    "ref": "e31f4402-470e-42f4-9d3f-3e5b2138fa08",
+    "keyword": "99735b060d5afdc1f72bf8a083002e2c",
+    "answer": "0",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_5903ca89-db14-436e-90e5-c9dfb0a6654e",
+    "keyword": "key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4",
+    "answer": "Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n\r\n👉 *1.* 🌐 Conocenos\",\r\n👉 *2.* 🚀 Nuestros Servicios\",\r\n👉 *3.* 🍀 Ofertas del Mes\",\r\n👉 *4.* 🏢 Conoce nuestras oficinas\",\r\n👉 *5.* 📞 Contactar a un Ejecutivo de Ventas\",",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "370c5409c572347d6f896cf9b8862f08",
+    "from": "59169912127"
+  },
+  {
+    "ref": "00171c79-767c-401d-9d5d-0ef44bd44f0d",
+    "keyword": "370c5409c572347d6f896cf9b8862f08",
+    "answer": "2",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_0cbc5fa8-b466-4cf0-b1f9-0a89f62ace86",
+    "keyword": "key_a3630d1f-4da3-4088-98a5-186efd35cba5",
+    "answer": "🚀 *NUESTROS SERVICIOS*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "bec1a56ac35aecb70307f0eff2558271",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_8c7a4c72-50a8-4bf3-9570-8d9d8c1afe9d",
+    "keyword": "ans_0cbc5fa8-b466-4cf0-b1f9-0a89f62ace86",
+    "answer": "*MARKETING DIGITAL*\n- Estrategias en redes sociales\n- Publicidad online (Google Ads, Facebook Ads, etc.)\n- SEO (Optimización en motores de búsqueda)\n- Email marketing",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "cdc6a5c4dafab7a189db14e7d1c1c523",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_8fa2d1c9-8208-41a3-b1a3-93a368fcb743",
+    "keyword": "ans_8c7a4c72-50a8-4bf3-9570-8d9d8c1afe9d",
+    "answer": "*PRODUCCIÓN*\n- Producción audiovisual\n- Videos corporativos\n- Spots publicitarios\n- Producción de contenido visual",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "fcc67a04b624b3ab0fa2fb4c96331fbc",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_1467706a-ea24-4443-9934-f0ea4299d534",
+    "keyword": "ans_8fa2d1c9-8208-41a3-b1a3-93a368fcb743",
+    "answer": "*FOTOGRAFÍA*\n- Fotografía publicitaria\n- Fotografía de producto\n- Sesiones fotográficas para redes sociales\n- Fotografía para eventos y lanzamientos",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "e7696db320af06f73f57b5e3b1d7a60f",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_7314fbd8-955a-4ede-96c2-192b2ac75c9e",
+    "keyword": "ans_1467706a-ea24-4443-9934-f0ea4299d534",
+    "answer": "*DESARROLLO WEB*\n- Diseño y desarrollo de sitios web\n- Tiendas online (eCommerce)\n- Optimización para móviles\n- Mantenimiento web y actualizaciones",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "04098129a68afec6b88b7980a1455bbd",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_3ff8031a-7613-435c-b1e1-85f119bd127f",
+    "keyword": "ans_7314fbd8-955a-4ede-96c2-192b2ac75c9e",
+    "answer": "*DISEÑO GRÁFICO*\n- Creación de identidad visual\n- Diseño de logotipos\n- Material publicitario (folletos, carteles, banners)\n- Diseño para redes sociales",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "a1d613aca6450fc18c4fb30b6d3268bc",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_f1298c0e-be36-48d5-8123-32618083fd95",
+    "keyword": "ans_3ff8031a-7613-435c-b1e1-85f119bd127f",
+    "answer": "Escribe *MENU* o el Numero *0* para volver al menu\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "7bbd0500a5d254d9523ef05fedb9897e",
+    "from": "59169912127"
+  },
+  {
+    "ref": "c2bb39a1-db74-4e48-8d5d-f4d4197f12be",
+    "keyword": "7bbd0500a5d254d9523ef05fedb9897e",
+    "answer": "0",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_5903ca89-db14-436e-90e5-c9dfb0a6654e",
+    "keyword": "key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4",
+    "answer": "Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n\r\n👉 *1.* 🌐 Conocenos\",\r\n👉 *2.* 🚀 Nuestros Servicios\",\r\n👉 *3.* 🍀 Ofertas del Mes\",\r\n👉 *4.* 🏢 Conoce nuestras oficinas\",\r\n👉 *5.* 📞 Contactar a un Ejecutivo de Ventas\",",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "370c5409c572347d6f896cf9b8862f08",
+    "from": "59169912127"
+  },
+  {
+    "ref": "d6b47658-9b31-47fd-8b38-5459b4107fbb",
+    "keyword": "370c5409c572347d6f896cf9b8862f08",
+    "answer": "3",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
+  },
+  {
+    "ref": "ans_38dac413-24c7-4348-8b3d-eafea6ba1f6c",
+    "keyword": "key_2c19ac77-19ef-4795-852e-240e2fe372d6",
+    "answer": "🍀 *OFERTAS DEL MES*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "d7df62063dd4752d9c73e1b4bfe8b544",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_6af0f29c-6ae6-4fcf-8f7b-a6ed6a8f2c8b",
+    "keyword": "ans_38dac413-24c7-4348-8b3d-eafea6ba1f6c",
+    "answer": "¡Aprovecha nuestra campaña de optimización por solo 699 Bs! Mejora tu presencia en línea y maximiza tus resultados. Contáctanos para más información y comienza a transformar tu negocio hoy.",
+    "options": {
+      "media": "https://goatpublicidad.com/assets/img/GOAT/promocion.jpeg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1000,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "102804ff46c844838086cbef23731d54",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_ff8bc692-cb4d-4533-afac-3a3351bc470f",
+    "keyword": "ans_6af0f29c-6ae6-4fcf-8f7b-a6ed6a8f2c8b",
+    "answer": "Escribe *MENU* o el Numero *0* para volver al menu\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "1f8ecd39c4ca50a90b7692288e9f153d",
+    "from": "59169912127"
+  },
+  {
+    "ref": "a88107a0-ed6c-4751-bbd0-9b817c8364aa",
+    "keyword": "1f8ecd39c4ca50a90b7692288e9f153d",
+    "answer": "0",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_5903ca89-db14-436e-90e5-c9dfb0a6654e",
+    "keyword": "key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4",
+    "answer": "Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n\r\n👉 *1.* 🌐 Conocenos\",\r\n👉 *2.* 🚀 Nuestros Servicios\",\r\n👉 *3.* 🍀 Ofertas del Mes\",\r\n👉 *4.* 🏢 Conoce nuestras oficinas\",\r\n👉 *5.* 📞 Contactar a un Ejecutivo de Ventas\",",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "370c5409c572347d6f896cf9b8862f08",
+    "from": "59169912127"
+  },
+  {
+    "ref": "1c58fd11-df25-4b6f-9307-0c396df2c210",
+    "keyword": "370c5409c572347d6f896cf9b8862f08",
+    "answer": "4",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "e8139b7fa2fbc1b48f247924f8ad1961"
+  },
+  {
+    "ref": "ans_dc69fb3e-661c-454c-a5e9-7fb283761bb0",
+    "keyword": "key_fda04989-886a-4c92-99e7-e1e546f0a424",
+    "answer": "🏢 *CONOCE NUESTRAS OFICINAS*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "054e11c4bd9175d5132db6faeab3cb84",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_e3c79d68-1e9f-45c9-b085-21f950889371",
+    "keyword": "ans_dc69fb3e-661c-454c-a5e9-7fb283761bb0",
+    "answer": "Estamos ubicados en *La Final Av. Buenos Aires, Av. Mario Mercado, frente al Mercado Vergel.* Visítanos y descubre cómo podemos ayudarte a impulsar tu negocio.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "cb7833660ba028889f3b9c4d24b376c1",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_6a52ee3f-f400-4742-b4e6-e9795336604c",
+    "keyword": "ans_e3c79d68-1e9f-45c9-b085-21f950889371",
+    "answer": "https://maps.app.goo.gl/pu1sDdDAQXwvBsDw5",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "36aae6baf55620a8b335c806cab43222",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_e5454bde-6d26-4413-a2a2-22b2cf18a7b6",
+    "keyword": "ans_6a52ee3f-f400-4742-b4e6-e9795336604c",
+    "answer": "¡Te esperamos!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "3188b6915cfc76512bfef7762c6f0e82",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_2a51efcf-3c95-49af-a1bc-93c901b514ea",
+    "keyword": "ans_e5454bde-6d26-4413-a2a2-22b2cf18a7b6",
+    "answer": "Escribe *MENU* o el Numero *0* para volver al menu\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "c300fd9242dfb811872d022add0a34e0",
+    "from": "59169912127"
+  },
+  {
+    "ref": "12121548-89ff-46e7-acf0-819900d181c7",
+    "keyword": "c300fd9242dfb811872d022add0a34e0",
+    "answer": "0",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_5903ca89-db14-436e-90e5-c9dfb0a6654e",
+    "keyword": "key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4",
+    "answer": "Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n\r\n👉 *1.* 🌐 Conocenos\",\r\n👉 *2.* 🚀 Nuestros Servicios\",\r\n👉 *3.* 🍀 Ofertas del Mes\",\r\n👉 *4.* 🏢 Conoce nuestras oficinas\",\r\n👉 *5.* 📞 Contactar a un Ejecutivo de Ventas\",",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "370c5409c572347d6f896cf9b8862f08",
+    "from": "59169912127"
+  },
+  {
+    "ref": "cf80d35e-9831-4c2e-9ab2-08124674bf3d",
+    "keyword": "370c5409c572347d6f896cf9b8862f08",
+    "answer": "5",
+    "options": {},
+    "from": "59169912127",
+    "refSerialize": "d2b414a4bc0b3490276097c7513b4c8c"
+  },
+  {
+    "ref": "ans_75bcddfe-834b-434a-a907-92e93522dce6",
+    "keyword": "key_faa3d9e8-f897-4861-b415-2efaad5177ac",
+    "answer": "🏢 *CONTACTAR A UN EJECUTIVO DE VENTAS*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "874c15ab077a1e119899195d2b50ea12",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_69edac53-22b6-4f22-a52b-493f5a178781",
+    "keyword": "ans_75bcddfe-834b-434a-a907-92e93522dce6",
+    "answer": "Gracias por tu contacto. En breve te estaremos derivando a un Ejecutivo Comercial para que pueda llamarte y atender a tus dudas y consultas.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "3c9a53a610612785b7d2f7f971d6ca74",
+    "from": "59169912127"
+  },
+  {
+    "ref": "ans_4b27d083-1d60-43da-9346-9890815efd7a",
+    "keyword": "key_6b83bde2-d32d-40a9-acc7-42b3a5274f1a",
+    "answer": "Hola 👋, Bienvenido a *GOAT - Agencia de Marketing y Publicidad*\nSi quiere ver nuestro menu Escribe cualquiera de las dos opciones\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": "https://inmobiliariacapricorniosrl.com/img/GOAT.jpg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1000,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5066a491abf4feebe94a1847d007c621",
+    "from": "59162353616"
+  },
+  {
+    "ref": "ans_4b27d083-1d60-43da-9346-9890815efd7a",
+    "keyword": "key_6b83bde2-d32d-40a9-acc7-42b3a5274f1a",
+    "answer": "Hola 👋, Bienvenido a *GOAT - Agencia de Marketing y Publicidad*\nSi quiere ver nuestro menu Escribe cualquiera de las dos opciones\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": "https://inmobiliariacapricorniosrl.com/img/GOAT.jpg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1000,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5066a491abf4feebe94a1847d007c621",
+    "from": "59162353616"
+  },
+  {
+    "ref": "ans_4b27d083-1d60-43da-9346-9890815efd7a",
+    "keyword": "key_6b83bde2-d32d-40a9-acc7-42b3a5274f1a",
+    "answer": "Hola 👋, Bienvenido a *GOAT - Agencia de Marketing y Publicidad*\nSi quiere ver nuestro menu Escribe cualquiera de las dos opciones\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": "https://inmobiliariacapricorniosrl.com/img/GOAT.jpg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1000,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5066a491abf4feebe94a1847d007c621",
+    "from": "59162353616"
+  },
+  {
+    "ref": "d0b83da6-52ae-4c54-a0df-86d81be7727d",
+    "keyword": "5066a491abf4feebe94a1847d007c621",
+    "answer": "0",
+    "options": {},
+    "from": "59162353616",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_5903ca89-db14-436e-90e5-c9dfb0a6654e",
+    "keyword": "key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4",
+    "answer": "Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n\r\n👉 *1.* 🌐 Conocenos\",\r\n👉 *2.* 🚀 Nuestros Servicios\",\r\n👉 *3.* 🍀 Ofertas del Mes\",\r\n👉 *4.* 🏢 Conoce nuestras oficinas\",\r\n👉 *5.* 📞 Contactar a un Ejecutivo de Ventas\",",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "370c5409c572347d6f896cf9b8862f08",
+    "from": "59162353616"
+  },
+  {
+    "ref": "20305b29-eb20-48b4-be4f-7f641daea7d3",
+    "keyword": "370c5409c572347d6f896cf9b8862f08",
+    "answer": "1",
+    "options": {},
+    "from": "59162353616",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_97459f0b-a86b-4863-8f70-ec428ae032f0",
+    "keyword": "key_d98c6932-035e-4d8d-80a6-7011b14e381f",
+    "answer": "🌐 *CONOCENOS*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "bd7de9dfa394aceb13a081c9b607b60e",
+    "from": "59162353616"
+  },
+  {
+    "ref": "ans_a9b148c4-ddfa-469b-8b07-4656f0add088",
+    "keyword": "ans_97459f0b-a86b-4863-8f70-ec428ae032f0",
+    "answer": "Descubre más sobre nosotros y lo que hacemos. Puedes conocernos mejor en el siguiente enlace:",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "3edb0961a9457c9c2ea2d66c77af1ec5",
+    "from": "59162353616"
+  },
+  {
+    "ref": "ans_e77caef4-a751-43b5-af60-593fc4003861",
+    "keyword": "ans_a9b148c4-ddfa-469b-8b07-4656f0add088",
+    "answer": "https://goatpublicidad.com",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "cad6b4abf3a561a20a29d321173f9c43",
+    "from": "59162353616"
+  },
+  {
+    "ref": "ans_793a0d0c-3cf4-4945-b8e7-015ba3612689",
+    "keyword": "ans_e77caef4-a751-43b5-af60-593fc4003861",
+    "answer": "¡Gritanos!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "14054c330ca1995c6852684bcd2e5e71",
+    "from": "59162353616"
+  },
+  {
+    "ref": "ans_ef25bed9-8448-433b-aa1d-1c41c831149f",
+    "keyword": "ans_793a0d0c-3cf4-4945-b8e7-015ba3612689",
+    "answer": "Escribe *MENU* o el Numero *0* para volver al menu\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "99735b060d5afdc1f72bf8a083002e2c",
+    "from": "59162353616"
+  },
+  {
+    "ref": "82537377-bc78-458a-bf4b-d89391f42e48",
+    "keyword": "99735b060d5afdc1f72bf8a083002e2c",
+    "answer": "0",
+    "options": {},
+    "from": "59162353616",
+    "refSerialize": "8f2014815c38046ebbfffe3ac4f3f41c"
+  },
+  {
+    "ref": "ans_5903ca89-db14-436e-90e5-c9dfb0a6654e",
+    "keyword": "key_7b95a91a-3e6c-4431-91a4-9ebdab2774c4",
+    "answer": "Estoy aquí para asistirte. Por favor, elige la opción en la que necesitas ayuda: Escribe el número de la opción que desees. Ejemplo: *1*,\r\n\r\n👉 *1.* 🌐 Conocenos\",\r\n👉 *2.* 🚀 Nuestros Servicios\",\r\n👉 *3.* 🍀 Ofertas del Mes\",\r\n👉 *4.* 🏢 Conoce nuestras oficinas\",\r\n👉 *5.* 📞 Contactar a un Ejecutivo de Ventas\",",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "370c5409c572347d6f896cf9b8862f08",
+    "from": "59162353616"
+  },
+  {
+    "ref": "64f9eec5-9821-4ef6-baa7-15336886c774",
+    "keyword": "370c5409c572347d6f896cf9b8862f08",
+    "answer": "3",
+    "options": {},
+    "from": "59162353616",
+    "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
+  },
+  {
+    "ref": "ans_38dac413-24c7-4348-8b3d-eafea6ba1f6c",
+    "keyword": "key_2c19ac77-19ef-4795-852e-240e2fe372d6",
+    "answer": "🍀 *OFERTAS DEL MES*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "d7df62063dd4752d9c73e1b4bfe8b544",
+    "from": "59162353616"
+  },
+  {
+    "ref": "ans_6af0f29c-6ae6-4fcf-8f7b-a6ed6a8f2c8b",
+    "keyword": "ans_38dac413-24c7-4348-8b3d-eafea6ba1f6c",
+    "answer": "¡Aprovecha nuestra campaña de optimización por solo 699 Bs! Mejora tu presencia en línea y maximiza tus resultados. Contáctanos para más información y comienza a transformar tu negocio hoy.",
+    "options": {
+      "media": "https://goatpublicidad.com/assets/img/GOAT/promocion.jpeg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1000,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "102804ff46c844838086cbef23731d54",
+    "from": "59162353616"
+  },
+  {
+    "ref": "ans_ff8bc692-cb4d-4533-afac-3a3351bc470f",
+    "keyword": "ans_6af0f29c-6ae6-4fcf-8f7b-a6ed6a8f2c8b",
+    "answer": "Escribe *MENU* o el Numero *0* para volver al menu\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "1f8ecd39c4ca50a90b7692288e9f153d",
+    "from": "59162353616"
+  },
+  {
+    "ref": "ans_4b27d083-1d60-43da-9346-9890815efd7a",
+    "keyword": "key_6b83bde2-d32d-40a9-acc7-42b3a5274f1a",
+    "answer": "Hola 👋, Bienvenido a *GOAT - Agencia de Marketing y Publicidad*\nSi quiere ver nuestro menu Escribe cualquiera de las dos opciones\n- 👉 *MENU*\n- 👉 *0*",
+    "options": {
+      "media": "https://inmobiliariacapricorniosrl.com/img/GOAT.jpg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1000,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5066a491abf4feebe94a1847d007c621",
+    "from": "59176509746"
+  }
+]
